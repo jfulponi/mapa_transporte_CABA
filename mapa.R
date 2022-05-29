@@ -1,3 +1,6 @@
+## Inspiration and base code from https://twitter.com/UrbanDemog/status/1416043653416558597
+
+
 easypackages::packages("sf",
                        "raster",
                        "stars",
